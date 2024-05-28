@@ -1,0 +1,47 @@
+<?xml version = "1.0" encoding = "utf-8"?>
+<!DOCTYPE hibernate-configuration PUBLIC
+        "-//Hibernate/hibernate Configuration DTD 3.0//EN"
+        "http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+    <session-factory>
+
+        <property name = "hibernate.dialect">
+            org.hibernate.dialect.SQLServerDialect
+        </property>
+
+        <property name = "hibernate.connection.driver_class">
+            com.microsoft.sqlserver.jdbc.SQLServerDriver
+        </property>
+
+        <property name = "hibernate.connection.url">
+            jdbc:sqlserver://localhost:1433;databaseName=RESTAURANTE;trustServerCertificate=true;encrypt=true;
+        </property>
+
+        <property name = "hibernate.connection.username">
+            sa
+        </property>
+
+        <property name = "hibernate.connection.password">
+            ADMIN0
+        </property>
+
+        <property name="hibernate.default_schema">
+            dbo
+        </property>
+
+        <property name="hibernate.show_sql">false</property>
+        <property name="hibernate.hbm2ddl.auto">validate</property>
+        <property name="hibernate.current_session_context_class">thread</property>
+
+        <!-- List of XML mapping files -->
+        <mapping class="com.example.demo.model.Usuario"/>
+        <mapping class="com.example.demo.model.Sistema"/>
+        <mapping class="com.example.demo.model.UsuarioPartida"/>
+        <mapping class="com.example.demo.model.Partida"/>
+        <mapping class="com.example.demo.model.Pez"/>
+        <mapping class="com.example.demo.model.PartidaPez"/>
+        <mapping class="com.example.demo.model.Mejora"/>
+        <mapping class="com.example.demo.model.PartidaMejora"/>
+
+    </session-factory>
+</hibernate-configuration>

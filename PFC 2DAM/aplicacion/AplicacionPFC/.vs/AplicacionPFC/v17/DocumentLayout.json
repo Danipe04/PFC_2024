@@ -1,0 +1,220 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Daniel\\source\\repos\\AplicacionPFC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06293E6F-7309-4FE0-9CDC-145F56B1181B}|AplicacionPFC\\AplicacionPFC.csproj|c:\\users\\daniel\\source\\repos\\aplicacionpfc\\aplicacionpfc\\conexionapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06293E6F-7309-4FE0-9CDC-145F56B1181B}|AplicacionPFC\\AplicacionPFC.csproj|solutionrelative:aplicacionpfc\\conexionapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06293E6F-7309-4FE0-9CDC-145F56B1181B}|AplicacionPFC\\AplicacionPFC.csproj|c:\\users\\daniel\\source\\repos\\aplicacionpfc\\aplicacionpfc\\anadirtickets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06293E6F-7309-4FE0-9CDC-145F56B1181B}|AplicacionPFC\\AplicacionPFC.csproj|solutionrelative:aplicacionpfc\\anadirtickets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06293E6F-7309-4FE0-9CDC-145F56B1181B}|AplicacionPFC\\AplicacionPFC.csproj|c:\\users\\daniel\\source\\repos\\aplicacionpfc\\aplicacionpfc\\anadirtickets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{06293E6F-7309-4FE0-9CDC-145F56B1181B}|AplicacionPFC\\AplicacionPFC.csproj|solutionrelative:aplicacionpfc\\anadirtickets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06293E6F-7309-4FE0-9CDC-145F56B1181B}|AplicacionPFC\\AplicacionPFC.csproj|c:\\users\\daniel\\source\\repos\\aplicacionpfc\\aplicacionpfc\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06293E6F-7309-4FE0-9CDC-145F56B1181B}|AplicacionPFC\\AplicacionPFC.csproj|solutionrelative:aplicacionpfc\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06293E6F-7309-4FE0-9CDC-145F56B1181B}|AplicacionPFC\\AplicacionPFC.csproj|c:\\users\\daniel\\source\\repos\\aplicacionpfc\\aplicacionpfc\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{06293E6F-7309-4FE0-9CDC-145F56B1181B}|AplicacionPFC\\AplicacionPFC.csproj|solutionrelative:aplicacionpfc\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06293E6F-7309-4FE0-9CDC-145F56B1181B}|AplicacionPFC\\AplicacionPFC.csproj|c:\\users\\daniel\\source\\repos\\aplicacionpfc\\aplicacionpfc\\anadirtickets.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06293E6F-7309-4FE0-9CDC-145F56B1181B}|AplicacionPFC\\AplicacionPFC.csproj|solutionrelative:aplicacionpfc\\anadirtickets.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06293E6F-7309-4FE0-9CDC-145F56B1181B}|AplicacionPFC\\AplicacionPFC.csproj|c:\\users\\daniel\\source\\repos\\aplicacionpfc\\aplicacionpfc\\principal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06293E6F-7309-4FE0-9CDC-145F56B1181B}|AplicacionPFC\\AplicacionPFC.csproj|solutionrelative:aplicacionpfc\\principal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06293E6F-7309-4FE0-9CDC-145F56B1181B}|AplicacionPFC\\AplicacionPFC.csproj|c:\\users\\daniel\\source\\repos\\aplicacionpfc\\aplicacionpfc\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{06293E6F-7309-4FE0-9CDC-145F56B1181B}|AplicacionPFC\\AplicacionPFC.csproj|solutionrelative:aplicacionpfc\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06293E6F-7309-4FE0-9CDC-145F56B1181B}|AplicacionPFC\\AplicacionPFC.csproj|c:\\users\\daniel\\source\\repos\\aplicacionpfc\\aplicacionpfc\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{06293E6F-7309-4FE0-9CDC-145F56B1181B}|AplicacionPFC\\AplicacionPFC.csproj|solutionrelative:aplicacionpfc\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06293E6F-7309-4FE0-9CDC-145F56B1181B}|AplicacionPFC\\AplicacionPFC.csproj|c:\\users\\daniel\\source\\repos\\aplicacionpfc\\aplicacionpfc\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06293E6F-7309-4FE0-9CDC-145F56B1181B}|AplicacionPFC\\AplicacionPFC.csproj|solutionrelative:aplicacionpfc\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06293E6F-7309-4FE0-9CDC-145F56B1181B}|AplicacionPFC\\AplicacionPFC.csproj|c:\\users\\daniel\\source\\repos\\aplicacionpfc\\aplicacionpfc\\inicio.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06293E6F-7309-4FE0-9CDC-145F56B1181B}|AplicacionPFC\\AplicacionPFC.csproj|solutionrelative:aplicacionpfc\\inicio.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06293E6F-7309-4FE0-9CDC-145F56B1181B}|AplicacionPFC\\AplicacionPFC.csproj|c:\\users\\daniel\\source\\repos\\aplicacionpfc\\aplicacionpfc\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06293E6F-7309-4FE0-9CDC-145F56B1181B}|AplicacionPFC\\AplicacionPFC.csproj|solutionrelative:aplicacionpfc\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AnadirTickets.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\AplicacionPFC\\AplicacionPFC\\AnadirTickets.cs",
+              "RelativeDocumentMoniker": "AplicacionPFC\\AnadirTickets.cs",
+              "ToolTip": "C:\\Users\\Daniel\\source\\repos\\AplicacionPFC\\AplicacionPFC\\AnadirTickets.cs [Dise\u00F1o]",
+              "RelativeToolTip": "AplicacionPFC\\AnadirTickets.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T21:41:15.254Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AnadirTickets.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\AplicacionPFC\\AplicacionPFC\\AnadirTickets.Designer.cs",
+              "RelativeDocumentMoniker": "AplicacionPFC\\AnadirTickets.Designer.cs",
+              "ToolTip": "C:\\Users\\Daniel\\source\\repos\\AplicacionPFC\\AplicacionPFC\\AnadirTickets.Designer.cs",
+              "RelativeToolTip": "AplicacionPFC\\AnadirTickets.Designer.cs",
+              "ViewState": "AQIAAMoAAAAAAAAAAAAAANQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T21:16:39.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AnadirTickets.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\AplicacionPFC\\AplicacionPFC\\AnadirTickets.cs",
+              "RelativeDocumentMoniker": "AplicacionPFC\\AnadirTickets.cs",
+              "ToolTip": "C:\\Users\\Daniel\\source\\repos\\AplicacionPFC\\AplicacionPFC\\AnadirTickets.cs",
+              "RelativeToolTip": "AplicacionPFC\\AnadirTickets.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAADwvzIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T21:16:26.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Ticket.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\AplicacionPFC\\AplicacionPFC\\Ticket.cs",
+              "RelativeDocumentMoniker": "AplicacionPFC\\Ticket.cs",
+              "ToolTip": "C:\\Users\\Daniel\\source\\repos\\AplicacionPFC\\AplicacionPFC\\Ticket.cs [Dise\u00F1o]",
+              "RelativeToolTip": "AplicacionPFC\\Ticket.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T19:33:41.274Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Principal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\AplicacionPFC\\AplicacionPFC\\Principal.cs",
+              "RelativeDocumentMoniker": "AplicacionPFC\\Principal.cs",
+              "ToolTip": "C:\\Users\\Daniel\\source\\repos\\AplicacionPFC\\AplicacionPFC\\Principal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "AplicacionPFC\\Principal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T04:19:09.011Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Principal.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\AplicacionPFC\\AplicacionPFC\\Principal.Designer.cs",
+              "RelativeDocumentMoniker": "AplicacionPFC\\Principal.Designer.cs",
+              "ToolTip": "C:\\Users\\Daniel\\source\\repos\\AplicacionPFC\\AplicacionPFC\\Principal.Designer.cs",
+              "RelativeToolTip": "AplicacionPFC\\Principal.Designer.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAQwAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T04:17:16.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Principal.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\AplicacionPFC\\AplicacionPFC\\Principal.cs",
+              "RelativeDocumentMoniker": "AplicacionPFC\\Principal.cs",
+              "ToolTip": "C:\\Users\\Daniel\\source\\repos\\AplicacionPFC\\AplicacionPFC\\Principal.cs",
+              "RelativeToolTip": "AplicacionPFC\\Principal.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAswBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T04:17:07.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConexionAPI.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\AplicacionPFC\\AplicacionPFC\\ConexionAPI.cs",
+              "RelativeDocumentMoniker": "AplicacionPFC\\ConexionAPI.cs",
+              "ToolTip": "C:\\Users\\Daniel\\source\\repos\\AplicacionPFC\\AplicacionPFC\\ConexionAPI.cs",
+              "RelativeToolTip": "AplicacionPFC\\ConexionAPI.cs",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAIwGwAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T00:19:09.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\AplicacionPFC\\AplicacionPFC\\Usuario.cs",
+              "RelativeDocumentMoniker": "AplicacionPFC\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Daniel\\source\\repos\\AplicacionPFC\\AplicacionPFC\\Usuario.cs",
+              "RelativeToolTip": "AplicacionPFC\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T00:20:34.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Inicio.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\AplicacionPFC\\AplicacionPFC\\Inicio.cs",
+              "RelativeDocumentMoniker": "AplicacionPFC\\Inicio.cs",
+              "ToolTip": "C:\\Users\\Daniel\\source\\repos\\AplicacionPFC\\AplicacionPFC\\Inicio.cs [Dise\u00F1o]",
+              "RelativeToolTip": "AplicacionPFC\\Inicio.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T00:01:46.052Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Inicio.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\AplicacionPFC\\AplicacionPFC\\Inicio.Designer.cs",
+              "RelativeDocumentMoniker": "AplicacionPFC\\Inicio.Designer.cs",
+              "ToolTip": "C:\\Users\\Daniel\\source\\repos\\AplicacionPFC\\AplicacionPFC\\Inicio.Designer.cs",
+              "RelativeToolTip": "AplicacionPFC\\Inicio.Designer.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAiwD0AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T00:01:32.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Inicio.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\source\\repos\\AplicacionPFC\\AplicacionPFC\\Inicio.cs",
+              "RelativeDocumentMoniker": "AplicacionPFC\\Inicio.cs",
+              "ToolTip": "C:\\Users\\Daniel\\source\\repos\\AplicacionPFC\\AplicacionPFC\\Inicio.cs",
+              "RelativeToolTip": "AplicacionPFC\\Inicio.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T00:01:18.984Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
